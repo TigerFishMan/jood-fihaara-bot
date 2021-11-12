@@ -1,0 +1,22 @@
+{
+  "name": "jood-fihaara-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to hgandle jood fihaara sales",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigerFishMan/jood-fihaara-bot.git"
+  },
+  "author": "TigerFishMan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TigerFishMan/jood-fihaara-bot/issues"
+  },
+  "homepage": "https://github.com/TigerFishMan/jood-fihaara-bot#readme",
+  "dependencies": {
+    "grammy": "^1.4.0"
+  }
+}
