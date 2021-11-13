@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/TigerFishMan/jood-fihaara-bot#readme",
   "dependencies": {
-    "grammy": "^1.4.0"
+    "grammy": "^1.4.0",
+    "sequelize": "^6.9.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.3.0"
   }
 }
