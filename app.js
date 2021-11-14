@@ -1,6 +1,6 @@
 const { Bot } = require("grammy");
 
-const bot = new Bot("643431269:AAHjExuktEe5vn9ubLH8W1ta1LgiL_EASnw");
+const bot = new Bot("");
 
 bot.command("start", (ctx) => ctx.reply(ctx));
 
